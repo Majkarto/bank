@@ -1,1 +1,1 @@
-# Praca wykonana przez Kacper Juśkiewicz, 
+# Praca wykonana przez Kacper Juśkiewicz, Michał Grabiński
