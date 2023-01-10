@@ -1,1 +1,1 @@
-# prawdopodobnie to skończę reobić w środę bo nie chciało mnie się dzisiaj
+# Praca wykonana przez Kacper Juśkiewicz, 
