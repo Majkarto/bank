@@ -37,7 +37,7 @@ namespace bank
         {
             Console.Clear();
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Nieprawidłowy nimer konta");
+            Console.WriteLine("Nieprawidłowy numer konta");
             Console.ForegroundColor = ConsoleColor.White;
         }
     }
